@@ -1,0 +1,45 @@
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.exe.config
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.exe
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.pdb
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csprojAssemblyReference.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.Form1.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.Properties.Resources.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csproj.GenerateResource.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.exe
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.pdb
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.FrmCadastroProd.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Aula 03\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.FrmLogin.resources
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.FrmCadastroProd.resources
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.FrmLogin.resources
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.exe
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.pdb
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.exe.config
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.exe
+C:\Users\T-Gamer\Desktop\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.pdb
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.exe.config
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.exe
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.pdb
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csprojAssemblyReference.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.FrmCadastroProd.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.FrmLogin.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.Properties.Resources.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csproj.GenerateResource.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.exe
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.pdb
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.exe.config
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.exe
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\bin\Debug\Caixa de Frutas e Verduras.pdb
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.FrmCadastroProd.resources
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.FrmLogin.resources
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa_de_Frutas_e_Verduras.Properties.Resources.resources
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.exe
+C:\Users\T-Gamer\Downloads\Caixa de Frutas e Verduras\Caixa de Frutas e Verduras\obj\Debug\Caixa de Frutas e Verduras.pdb

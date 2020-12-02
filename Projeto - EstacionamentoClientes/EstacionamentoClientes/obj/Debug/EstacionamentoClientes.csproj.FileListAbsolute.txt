@@ -1,0 +1,24 @@
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\bin\Debug\EstacionamentoClientes.exe.config
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\bin\Debug\EstacionamentoClientes.exe
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\bin\Debug\EstacionamentoClientes.pdb
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.exe
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.pdb
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.FrmCadastroClientes.resources
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.FrmLogin.resources
+C:\Users\T-Gamer\Desktop\TRABALHO ESTACIONAMENTO\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.FrmVeiculos.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\bin\Debug\EstacionamentoClientes.exe.config
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\bin\Debug\EstacionamentoClientes.exe
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\bin\Debug\EstacionamentoClientes.pdb
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.csprojAssemblyReference.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.FrmCadastroClientes.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.FrmLogin.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.Properties.Resources.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.FrmVeiculos.resources
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.csproj.GenerateResource.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.exe
+C:\Users\Sony\Desktop\RODRIGO TUDO\DESENVOLVIMENTO DE SISTEMAS\Programação de Aplicativos\EstacionamentoClientes\EstacionamentoClientes\obj\Debug\EstacionamentoClientes.pdb
